@@ -9,7 +9,7 @@ requires = ["Sphinx>=0.6", "setuptools"]
 
 setup(
     name="sphinxcontrib-datacamp",
-    version="1.2",
+    version="2.0",
     description="Sphinx datacamp extension",
     author="Arnór Pétur Marteinsson",
     maintainer="Benedikt Magnusson",
